@@ -12,15 +12,14 @@ header{
     background-color: rgb(142, 18, 158);
 }
 .header {
-    width: 150px;
+    width: 100px;
     margin: auto;
   }
 nav{
     position: fixed;
     width: 10%;
     height: 600px;
-    background-color: rgba(16, 253, 8, 0.466);
-    /* https://www.hexcolortool.com/#0c00b8,0.51 */
+    background-color: rgba(16, 253, 8, 0.466); /* https://www.hexcolortool.com/#0c00b8,0.51 пусть будет здесь */
 }
 .center{
     margin: auto;
